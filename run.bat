@@ -1,0 +1,1 @@
+E:\Server\bin\run.cmd +exec server.cfg
