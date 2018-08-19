@@ -1,0 +1,23 @@
+{
+  "vehicles": [
+    "911turbos",
+    "a45amg",
+    "hcbr17",
+    "gsxr",
+    "bmci",
+    "rmodm4gts",
+    "r1",
+    "hauler",
+    "trailersmall",
+    "boattrailer",
+    "sadler"
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "addonweaponname1",
+    "addonweaponname2"
+  ]
+}
