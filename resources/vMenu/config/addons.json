@@ -10,14 +10,13 @@
     "hauler",
     "trailersmall",
     "boattrailer",
-    "sadler"
+    "sadler",
+    "flatbed2",
+    "flatbed3",
+    "s3sedan",
+    "i8",
+    "rs6"
   ],
-  "peds": [
-    "addonpedname1",
-    "addonpedname2"
-  ],
-  "weapons": [
-    "addonweaponname1",
-    "addonweaponname2"
-  ]
+  "peds": [],
+  "weapons": []
 }
